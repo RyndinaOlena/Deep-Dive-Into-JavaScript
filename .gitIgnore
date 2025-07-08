@@ -1,0 +1,9 @@
+# Системні файли
+.DS_Store
+
+# Папка з модулями npm
+node_modules/
+
+# Кеш і логи
+npm-debug.log*
+dist/
